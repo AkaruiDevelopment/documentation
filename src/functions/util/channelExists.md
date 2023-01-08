@@ -15,9 +15,9 @@ $channelExists[channel]
 ## Parameters 
 
 
-| Field         | Type    | Description                                               | Required |
-|---------------|---------|-----------------------------------------------------------|----------|
-| channel       | string  | channel ID or channel name                                | yes      |
+| Field   | Type   | Description                | Required |
+| ------- | ------ | -------------------------- | -------- |
+| channel | string | channel ID or channel name | yes      |
 
 ## Example
 

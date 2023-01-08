@@ -14,10 +14,10 @@ $hasEmbeds[messageID;channelID]
 
 ## Parameters 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| messageID      | integer  | message ID of the embed                             | yes      |
-| channelID     | integer  | channel ID of the channel where the embed is present in          | yes      |
+| Field     | Type    | Description                                             | Required |
+| --------- | ------- | ------------------------------------------------------- | -------- |
+| messageID | integer | message ID of the embed                                 | yes      |
+| channelID | integer | channel ID of the channel where the embed is present in | yes      |
 
 
 ## Example

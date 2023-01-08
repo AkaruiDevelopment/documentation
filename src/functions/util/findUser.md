@@ -15,10 +15,10 @@ $findUser[userResolver;returnSelf?]
 ## Parameters 
 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| userResolver      | string  | query which is used to find the user                             | yes      |
-| returnSelf?     | string  | will return the user id of the user who executed the command when user was not found          | no       |
+| Field        | Type   | Description                                                                          | Required |
+| ------------ | ------ | ------------------------------------------------------------------------------------ | -------- |
+| userResolver | string | query which is used to find the user                                                 | yes      |
+| returnSelf?  | string | will return the user id of the user who executed the command when user was not found | no       |
 
 
 ## Example

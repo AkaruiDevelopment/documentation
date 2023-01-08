@@ -15,22 +15,22 @@ $checkCondition[condition]
 ## Parameters 
 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| condition | string  | condition you want to check                        | yes      |
+| Field     | Type   | Description                 | Required |
+| --------- | ------ | --------------------------- | -------- |
+| condition | string | condition you want to check | yes      |
 
 #### Valid Mathematical Operators
  
-| Operator    | Mathematical Expression    |
-|-------------|----------------------------|
-|      ==     |         equal to           |
-|      !=     |       not equal to         |
-|      <=     |   less than or equal to    |
-|      \>=    |  greater than or equal to  |
-|      \>     |        greater than        |
-|      <      |         less than          |
-|      \|\|   |        logical OR          |
-|      &&     |    logical conjunction     |
+| Operator | Mathematical Expression  |
+| -------- | ------------------------ |
+| ==       | equal to                 |
+| !=       | not equal to             |
+| <=       | less than or equal to    |
+| \>=      | greater than or equal to |
+| \>       | greater than             |
+| <        | less than                |
+| \|\|     | logical OR               |
+| &&       | logical conjunction      |
 
 
 ## Example(s)

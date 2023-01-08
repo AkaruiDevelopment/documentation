@@ -15,11 +15,11 @@ $findServerChannel[channelResolver;returnSelf?;guildID?]
 ## Parameters 
 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| channelResolver      | string  | name of the channel you are trying to find                             | yes      |
-| returnSelf?     | string  | return the channel where the command got executed in when nothing found          | no       |
-| guildID?        | integer  | guild ID where the channel is present in                    | no      |
+| Field           | Type    | Description                                                             | Required |
+| --------------- | ------- | ----------------------------------------------------------------------- | -------- |
+| channelResolver | string  | name of the channel you are trying to find                              | yes      |
+| returnSelf?     | string  | return the channel where the command got executed in when nothing found | no       |
+| guildID?        | integer | guild ID where the channel is present in                                | no       |
 
 
 ## Example

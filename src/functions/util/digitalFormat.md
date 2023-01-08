@@ -15,9 +15,9 @@ $digitalFormat[ms]
 ## Parameters 
 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| ms        | number  | time in miliseconds you wish to convert            | yes      |
+| Field | Type   | Description                             | Required |
+| ----- | ------ | --------------------------------------- | -------- |
+| ms    | number | time in miliseconds you wish to convert | yes      |
 
 
 ## Example

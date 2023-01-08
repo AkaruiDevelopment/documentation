@@ -1,10 +1,10 @@
 ---
 title: $findNumbers 
-description: $findNumbers will attempt to retrieve all numbers in a message and return those.
+description: $findNumbers will attempt to return all numbers in a message of a given text.
 id: findNumbers
 ---
 
-`$findNumbers` will attempt to retrieve all numbers in a message and return those.
+`$findNumbers` will attempt to return all numbers in a message of a given text.
 
 ## Usage
 
@@ -15,9 +15,9 @@ $findNumbers[text]
 ## Parameters 
 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| text      | string  | text where you want to find numbers                             | yes      |
+| Field | Type   | Description                         | Required |
+| ----- | ------ | ----------------------------------- | -------- |
+| text  | string | text where you want to find numbers | yes      |
 
 
 ## Example

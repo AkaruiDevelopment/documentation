@@ -15,9 +15,9 @@ $isChannelManageable[channelID?]
 ## Parameters 
 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| channelID?     | integer  | channel id where to check if the channel is manageable or not          | no       |
+| Field      | Type    | Description                                                   | Required |
+| ---------- | ------- | ------------------------------------------------------------- | -------- |
+| channelID? | integer | channel id where to check if the channel is manageable or not | no       |
 
 
 ## Example

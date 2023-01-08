@@ -1,10 +1,10 @@
 ---
 title: $charCount 
-description: $charCount will count the given arguments.
+description: $charCount will count the given characters in a text and return the amount of characters.
 id: charCount
 ---
 
-`$charCount` will count the given text and return the amount of characters.
+`$charCount` will count the given characters in a text and return the amount of characters.
 
 ## Usage
 
@@ -15,9 +15,9 @@ $charCount[text]
 ## Parameters 
 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| text      | string  | arguments where you count the character            | yes      |
+| Field | Type   | Description                                           | Required |
+| ----- | ------ | ----------------------------------------------------- | -------- |
+| text  | string | the text that will be the character count returned of | yes      |
 
 
 ## Example

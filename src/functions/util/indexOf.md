@@ -15,10 +15,10 @@ $indexOf[string;char]
 ## Parameters 
 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| string    | string  | the text the bot will be checking the index of                            | yes      |
-| char     | string  | the character the bot will be checking for          | yes      |
+| Field  | Type   | Description                                    | Required |
+| ------ | ------ | ---------------------------------------------- | -------- |
+| string | string | the text the bot will be checking the index of | yes      |
+| char   | string | the character the bot will be checking for     | yes      |
 
 
 ## Example

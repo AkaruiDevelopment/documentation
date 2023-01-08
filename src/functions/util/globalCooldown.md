@@ -16,10 +16,10 @@ $globalCooldown[time;errorMessage?]
 ## Parameters 
 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| time      | string  | the duration of the cooldown                             | yes      |
-| errorMessage?     | string  | error message given when there's remaining time of the cooldown          | no       |
+| Field         | Type   | Description                                                     | Required |
+| ------------- | ------ | --------------------------------------------------------------- | -------- |
+| time          | string | the duration of the cooldown                                    | yes      |
+| errorMessage? | string | error message given when there's remaining time of the cooldown | no       |
 
 
 ## Example

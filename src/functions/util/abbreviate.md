@@ -15,10 +15,10 @@ $abbreviate[num;dec?]
 ## Parameters 
 
 
-| Field  | Type    | Description     | Required |
-|--------|---------|-----------------|----------|
-| num | integer  | number to abbreviate | yes      |
-| dec? | integer | decimal between the abbreviate | no       |
+| Field | Type    | Description                    | Required |
+| ----- | ------- | ------------------------------ | -------- |
+| num   | integer | number to abbreviate           | yes      |
+| dec?  | integer | decimal between the abbreviate | no       |
 
 ## Example(s)
 

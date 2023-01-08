@@ -15,9 +15,9 @@ $expandNumber[abbrNumber]
 ## Parameters 
 
 
-| Field      | Type    | Description                                        | Required |
-|------------|---------|----------------------------------------------------|----------|
-| abbrNumber | string  | number you want to expand                          | yes      |
+| Field      | Type   | Description               | Required |
+| ---------- | ------ | ------------------------- | -------- |
+| abbrNumber | string | number you want to expand | yes      |
 
 
 ## Example

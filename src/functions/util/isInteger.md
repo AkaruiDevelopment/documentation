@@ -15,14 +15,14 @@ $isInteger[number]
 ## Parameters 
 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| number    | number  | number you want to check if its an integer or not                     | yes      |
+| Field  | Type   | Description                                       | Required |
+| ------ | ------ | ------------------------------------------------- | -------- |
+| number | number | number you want to check if its an integer or not | yes      |
 
 
 ## Example
 
-This checks if your message contains an integer:
+This checks if your message contains an integer and returns `true` or `false`:
 
 ```javascript
 bot.command({

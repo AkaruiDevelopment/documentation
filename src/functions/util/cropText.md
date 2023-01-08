@@ -15,11 +15,11 @@ $cropText[text;limit;start?]
 ## Parameters 
 
 
-| Field     | Type    | Description                                                                                      | Required |
-|-----------|---------|--------------------------------------------------------------------------------------------------|----------|
-| text      | string  | text you want to slice                                                                           | yes      |
-| limit     | number  | limit of the cropped text/will start to crop any text coming after that                          | yes      |
-| start?    | number  | where cropping should start                                                                      | no       |
+| Field  | Type   | Description                                                             | Required |
+| ------ | ------ | ----------------------------------------------------------------------- | -------- |
+| text   | string | text you want to slice                                                  | yes      |
+| limit  | number | limit of the cropped text/will start to crop any text coming after that | yes      |
+| start? | number | where cropping should start                                             | no       |
 
 
 ## Example

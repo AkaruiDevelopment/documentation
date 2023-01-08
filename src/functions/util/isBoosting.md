@@ -4,7 +4,7 @@ description: $isBoosting will check if the given user is boosting the given guil
 id: isBoosting
 ---
 
-`$isBoosting` will slide multiple arguments depending on the arguments.
+`$isBoosting` will check if the given user is boosting the given guild.
 
 ## Usage
 
@@ -15,10 +15,10 @@ $isBoosting[userID?;guildID?]
 ## Parameters 
 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| userID?      | integer  | user id to check if they're boosting                             | no      |
-| guildID?     | integer  | the guild id of where they boosted the server          | no       |
+| Field    | Type    | Description                                   | Required |
+| -------- | ------- | --------------------------------------------- | -------- |
+| userID?  | integer | user id to check if they're boosting          | no       |
+| guildID? | integer | the guild id of where they boosted the server | no       |
 
 ### Please note that your bot has to be present in the server where you're going to check for an users boosting status.
 

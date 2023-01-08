@@ -15,9 +15,9 @@ $isNumber[num]
 ## Parameters 
 
 
-| Field     | Type    | Description                                        | Required |
-|-----------|---------|----------------------------------------------------|----------|
-| num      | number  | argument you want to check if its a number          | yes      |
+| Field | Type   | Description                                | Required |
+| ----- | ------ | ------------------------------------------ | -------- |
+| num   | number | argument you want to check if its a number | yes      |
 
 
 ## Example
